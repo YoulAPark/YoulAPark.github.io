@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jeniffer Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "작고 소중한 **나의 공간**"
+  location         : "Seoul"
+  email            : "ouneno@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
