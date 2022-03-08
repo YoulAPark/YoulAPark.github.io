@@ -10,3 +10,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title : Database
+    children:
+      - title: "Oracle"
+        url: oracle/
+        category: "oracle"
+      - title: "mySQL"
+        url: mysql/
+        category: "mySQL"
+  
+  - title: "Engineer Information Processing"
+    children:
+    - title: "1과목"
+      url: first/
+      category: "first"
